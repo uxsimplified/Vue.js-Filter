@@ -10,7 +10,10 @@ class Post {
   }
 }
 
-  const app = new Vue ({
+  const app =new Vue({
+    router
+  }).$mount('#app'),
+  
   el: '#app',
   data: {
     search: '',
