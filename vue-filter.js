@@ -1,6 +1,6 @@
-/*'use-strict';
+'use-strict';
 
-class Post {
+/*class Post {
   constructor(title, link, author, img) {
     this.title = title;
     this.link = link;
@@ -8,7 +8,11 @@ class Post {
     this.img = img;
   }
 }
-
+<script>
+function myFunction() {
+  alert("Hello! I am an alert box!");
+}
+</script>
   const app =new Vue({
   el: '#app',
   data: {
@@ -80,4 +84,6 @@ class Post {
     }
   }
 })
+*/
+
 
