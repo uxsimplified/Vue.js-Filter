@@ -1,5 +1,11 @@
 'use-strict';
 
+<script>
+function myFunction() {
+  alert("Vue.js, Where are you?");
+}
+</script>
+
 /*class Post {
   constructor(title, link, author, img) {
     this.title = title;
