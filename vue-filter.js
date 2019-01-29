@@ -1,10 +1,9 @@
 'use-strict';
 
-<script>
 function myFunction() {
-  alert("Vue.js, Where are you?");
+  alert("Where my code?");
 }
-</script>
+
 
 /*class Post {
   constructor(title, link, author, img) {
