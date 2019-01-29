@@ -18,7 +18,8 @@ class Post {
         'Vue.js', 
         'https://vuejs.org/', 
         'Chris', 
-        'https://vuejs.org//images/logo.png'
+        //'https://vuejs.org//images/logo.png'
+        https://commons.wikimedia.org/wiki/File:Vue.js_Logo.svg
       ),
       new Post(
         'React.js', 
