@@ -1,4 +1,5 @@
 'use-strict';
+import Vue from 'vue';
 
 class Post {
   constructor(title, link, author, img) {
