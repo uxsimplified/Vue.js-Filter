@@ -1,4 +1,4 @@
-'use-strict';
+/*'use-strict';
 
 class Post {
   constructor(title, link, author, img) {
